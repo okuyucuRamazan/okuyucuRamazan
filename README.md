@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png">👋
 
 <table border="1" width="70%" cellpadding="10" cellspacing="10">
 	<thead>
@@ -19,6 +19,10 @@
 </tr>
 		<tr>
 			<td colspan="2"><a href="https://github.com/okuyucuRamazan"><img src="https://github.com/b-tekinli/b-tekinli/blob/main/img/api.gif"></a></img>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><a href="https://github.com/okuyucuRamazan"><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"></a></img>
 			</td>
 		</tr>
 	</tbody>
