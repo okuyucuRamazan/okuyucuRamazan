@@ -18,7 +18,7 @@
 	<td>Merhaba, adım Ramazan OKUYUCU. Çukurova Üniversitesi, Bilgisayar ve Öğretim Teknolojileri Öğretmenliği bölümünden 2007 yılında mezun oldum. MEB bünyesinde 2007 – 2012 yılları arasında öğretmen olarak görev aldım. 2012 yılında istifa edip Adalet Bakanlığında uzman olarak göreve başladım. Adalet Bakanlığı’nda görev yaptığım süre boyunca C# proglama dilinde kurum içi problemleri çözecek şekilde bir çok projeye imza attım. Java proglama dilinin daha geniş platforma cevap vermesi sebebiyle 2021 yılından itibaren Java ile çalışmaktayım. Hali hazırda “Web Based - Translater Project” projesinde Freelance - Java developer olarak çalışmaktayım. </td>
 </tr>
 		<tr>
-			<td colspan="2"><img src="https://github.com/b-tekinli/b-tekinli/blob/main/img/api.gif"></img>
+			<td colspan="2"><a href="https://github.com/okuyucuRamazan"><img src="https://github.com/b-tekinli/b-tekinli/blob/main/img/api.gif"></a></img>
 			</td>
 		</tr>
 	</tbody>
